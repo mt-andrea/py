@@ -1,0 +1,40 @@
+Fátyolvirág	gyökér	9	5
+Bojtorján	gyökér	9	4
+Ibolya	levél	9	3
+Édesgyökér	gyökér	10	4
+Csillagpázsit	gyökértörzs	10	4
+Fehér fagyöngy	leveles hajtás	11	4
+Akác	virág	5	9
+Gémorrfû	virágzó hajtás	5	8
+Füstikefû	virágzó hajtás	5	8
+Fekete áfonya	levél	6	9
+Gyermekláncfû	levél	4	6
+Gólyaorrfû	virágzó hajtás	5	7
+Fekete ürömfû	levél	6	8
+Fekete nadálytõ	levél	6	8
+Fehér mályva	levél	6	8
+Falgyomfû	virágzó hajtás	6	8
+Ezerjófû	virágzó hajtás	6	8
+Diófa	levél	6	8
+Csombormenta	virágzó hajtás	6	8
+Csipkerózsa	áltermés	9	11
+Cserszömörce	levél	6	8
+Csarab	virágzó hajtás	7	9
+Csalán	levél	7	9
+Boróka	termés	8	10
+Bakfû	virágzó hajtás	6	8
+Apróbojtorjánfû	virágzó hajtás	6	8
+Acsalapu	levél	6	8
+Iglic	virágzó hajtás	7	8
+Homoki gyopár	virágzat	8	9
+Hársfa	virágzat	5	6
+Gyujtoványfû	virágzó hajtás	7	8
+Gyöngyvirág	levél	6	7
+Galagonya	virág	5	6
+Fekete ribizli	levél	7	8
+Fehér üröm	levél	5	6
+Fehér árvacsalán	virág	5	6
+Fecskefû	virágzó hajtás	5	6
+Bodza	virágzat	5	6
+Berkenye	termés	9	10
+Aranyvesszõfû	virágzó hajtás	7	8

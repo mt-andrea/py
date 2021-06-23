@@ -1,0 +1,8 @@
+tarja;5;szerda
+karaj;3;hétfõ
+comb;2;hétfõ
+lapocka;2;kedd
+karaj;1;kedd
+tarja;4;péntek
+comb;12;szerda
+lapocka;9;péntek

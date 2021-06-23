@@ -1,0 +1,23 @@
+Budapest-Ferihegy	3010	45
+Budapest-Ferihegy	3707	45
+Budapest-Ferihegy	900	23
+Budapest-Ferihegy	900	23
+Debreceni nemzetközi repülõtér	2500	40
+Debreceni nemzetközi repülõtér	2500	40
+Debreceni nemzetközi repülõtér	2500	90
+Gyõr-Pér	1450	30
+Gyõr-Pér	1450	30
+Pécs-Pogány Repülõtér	1500	30
+Sármellék nemzetközi repülõtér	2500	60
+Sármellék nemzetközi repülõtér	30	45
+Fertõszentmiklós	985	23
+Nyíregyháza	1000	20
+Kecskeméti katonai repülõtér	2499	60
+Kecskeméti katonai repülõtér	2499	60
+Pápa	2400	60
+Pápa	2400	60
+Szolnok	2000	70
+Taszár	2500	60
+Békéscsabai repülõtér	1500	30
+Szeged	1185	30
+Tököl	2500	80

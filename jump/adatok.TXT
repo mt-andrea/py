@@ -1,0 +1,9 @@
+Ug Imre;Zala;656;640;0;698;627;599;661
+Riz Imre;Baranya;638;656;608;662;622;552;605
+Kozma Alfonz;Baranya;620;556;594;592;661;0;632
+Csabai Roland;Szabolcs;683;659;653;0;651;0;657
+Fekete Zsombor;Szabolcs;611;591;639;567;591;616;648
+Libert Roland;Zala;647;642;0;647;579;0;611
+Varga Bence;Baranya;665;575;644;603;610;597;600
+Nagy Lajos;Zala;674;620;586;619;641;0;556
+Haragos Csaba;Szabolcs;629;619;609;582;622;585;603

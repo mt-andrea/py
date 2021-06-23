@@ -1,0 +1,2 @@
+tarja;5;szerda
+tarja;4;péntek
